@@ -1,0 +1,6 @@
+#ifndef _TKIT_INCLUDE
+#define _TKIT_INCLUDE
+void number_generator(int a[],int begin, int end, int number);
+
+#endif
+
