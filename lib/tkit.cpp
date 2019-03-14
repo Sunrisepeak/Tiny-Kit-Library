@@ -1,6 +1,6 @@
 /***************************************************
- *this is implement of TData class.				****
- *							--SPeak 2019.3.15	****
+ *this is implement of TData class.             ****
+ *                           --SPeak 2019.3.15  ****
  ***************************************************/
 
 #include<iostream>
