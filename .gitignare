@@ -1,0 +1,6 @@
+#outputfile
+*.out
+*.exe
+
+#swap file on linux
+*.swap
