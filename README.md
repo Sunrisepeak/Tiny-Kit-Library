@@ -7,16 +7,16 @@ a common lib that include more more more method of high-frequency and let we fee
 
 ## Class
 ```c++
-+ Class TData{
-+   public:
-+     static int rdata();
-+     static void swap(int);
-+     static void swap(char);
+ Class TData{
+   public:
+     static int rdata();
+     static void swap(int);
+     static void swap(char);
     private:
       const address_pointer ......
-+ }
+ }
 ```
-#### Function
+#### Function:
 + Random()
  ++ rdata(void* address=0, int mix=1, int max=127,int len = 1)
 + Swap()
@@ -24,4 +24,4 @@ a common lib that include more more more method of high-frequency and let we fee
 ++ swap(char a, char b)
 
 ## Status
-++ unknow
+    unknow
