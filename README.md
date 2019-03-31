@@ -18,8 +18,11 @@ a common lib that include more more more method of high-frequency and let we fee
 ```
 #### Function:
 + Random()
+
  ++ rdata(void* address=0, int mix=1, int max=127,int len = 1)
+
 + Swap()
+
 ++ swap(int a, int b)
 ++ swap(char a, char b)
 
