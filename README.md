@@ -5,6 +5,23 @@
 
 a common lib that include more more more method of high-frequency and let we feel more than easy to code.
 
-## Function
-Random
-swap
+## Class
+```c++
++ Class TData{
++   public:
++     static int rdata();
++     static void swap(int);
++     static void swap(char);
+    private:
+      const address_pointer ......
++ }
+```
+#### Function
++ Random()
+ ++ rdata(void* address=0, int mix=1, int max=127,int len = 1)
++ Swap()
+++ swap(int a, int b)
+++ swap(char a, char b)
+
+## Status
+++ unknow
