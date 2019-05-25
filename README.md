@@ -2,6 +2,7 @@
 [![Build Status](https://travis-ci.org/Sunrisepeak/Tiny-Kit-Library.svg?branch=master)](https://travis-ci.org/Sunrisepeak/Tiny-Kit-Library)
 [![Language Status](https://img.shields.io/badge/Language-C%2B%2B-red.svg)](https://isocpp.org/)
 [![License Status](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://github.com/Sunrisepeak/Tiny-Kit-Library/blob/master/LICENSE)
+[![status](https://img.shields.io/badge/Status-Not%20Available-%238B658B.svg)]()
 
 a common lib that include more more more method of high-frequency and let we feel more than easy to code.
 
